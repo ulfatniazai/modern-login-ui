@@ -1,2 +1,69 @@
-# modern-login-ui
-A fully responsive modern authentication UI with login and signup functionality, built using HTML, CSS, and JavaScript. Includes glassmorphism design, animated background effects, and smooth form transitions for a premium user experience.
+# Modern Login & Signup UI
+
+A responsive and modern authentication UI built using HTML, CSS, and JavaScript.  
+It features a glassmorphism design, smooth animations, and a clean user experience.
+
+---
+
+##  Live Demo
+https://yourusername.github.io/your-repo-name/
+
+---
+
+##  Preview
+
+Login Page  
+(Add screenshot here)
+
+Signup Page  
+(Add screenshot here)
+
+---
+
+##  Features
+
+- Login & Signup system (single page switch)
+- Fully responsive design (mobile, tablet, desktop)
+- Glassmorphism UI design
+- Animated background effects
+- Floating labels
+- Password show/hide toggle
+- Smooth transitions between forms
+
+---
+
+##  Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+##  Project Structure
+
+index.html  
+style.css  
+script.js  
+
+---
+
+##  Purpose
+
+This project was built to improve front-end development skills and practice modern UI/UX design techniques.
+
+---
+
+##  Author
+
+Your Name  
+Frontend Developer
+
+---
+
+##  Future Improvements
+
+- Add backend authentication (Firebase / Node.js)
+- Add password strength indicator
+- Add Google/GitHub login
+- Add dark/light mode toggle
