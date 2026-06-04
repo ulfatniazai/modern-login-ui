@@ -12,11 +12,11 @@ https://ulfatniazai.github.io/modern-login-ui/
 
 ##  Preview
 
-## 📸 Login Page
+##  Login Page
 
 ![Login Page](images/login.png)
 
-## 📸 Signup Page
+##  Signup Page
 
 ![Signup Page](images/signup.png)
 
