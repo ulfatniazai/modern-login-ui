@@ -56,8 +56,8 @@ This project was built to improve front-end development skills and practice mode
 
 ##  Author
 
-Your Name  
-Frontend Developer
+Ulfat Niazai 
+Web Developer
 
 ---
 
